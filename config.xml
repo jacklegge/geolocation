@@ -1,4 +1,4 @@
-<!--<plugin name="cordova-plugin-geolocation" spec="~2.4.0" /> -->
+
 
 <?xml version="1.0" encoding="UTF-8"?>
 
@@ -22,4 +22,5 @@
 
 	<access origin="*"/>
    	<plugin name="cordova-plugin-whitelist" version="1" />
+    <plugin name="cordova-plugin-geolocation" spec="~2.4.0" />
 </widget>
